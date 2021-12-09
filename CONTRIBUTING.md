@@ -23,4 +23,6 @@ IDE : Visual Studio Code
 
 - endpoint for CRUD (create, read, update and delete) are available,
 
+- Carts populated with items , prices and quantities,
+
 - Cloud functions (Google Cloud Platform)
