@@ -16,14 +16,5 @@
 
 [use_cases_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7656280/use_cases_diagram.pdf)
 
-![hosting](https://user-images.githubusercontent.com/37714375/145131187-58aef416-183e-4ed0-8861-bd7ffbd99954.JPG)
 
-![hosting2](https://user-images.githubusercontent.com/37714375/145131190-27edef9e-08e7-4900-80c5-01b8a9740416.JPG)
 
-![hosting3](https://user-images.githubusercontent.com/37714375/145131191-620488f2-c94a-4356-b215-c38e74e58959.JPG)
-
-![angular_front](https://user-images.githubusercontent.com/37714375/145402890-d2dbc214-56fb-4b27-9450-8ee9c658d218.JPG)
-
-![angular_front2](https://user-images.githubusercontent.com/37714375/145402891-c7d84afb-00a0-4238-8a53-846425d5a5e6.JPG)
-
-![database](https://user-images.githubusercontent.com/37714375/145131195-9281dda4-10ca-4aa8-923f-451d989932e0.JPG)
