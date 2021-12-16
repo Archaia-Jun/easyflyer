@@ -2,7 +2,7 @@
 
 UML and logical part:
 
-[classes_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7656323/classes_diagram.pdf)
+[classes_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729806/classes_diagram.pdf)
 
 [sequences_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7656279/sequences_diagram.pdf)
 
