@@ -4,8 +4,8 @@ DOWNLOAD PROJECT:
 
 https://drive.google.com/file/d/1ewtfBqCl2XSSKxtTlrflKIdP6vHg1Sk1/view?usp=sharing
 
-
-UML AND LOGICAL PART:
+---------------------------------------------------------------------------------------------------
+# UML AND LOGICAL PART:
 
 [activity_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729897/activity_diagram.pdf)
 
@@ -16,8 +16,8 @@ UML AND LOGICAL PART:
 [use_cases_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7656280/use_cases_diagram.pdf)
 
 
-
-ENDPOINTS:
+------------------------------------------------------------------------------------------------------
+# ENDPOINTS:
 
 [post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731203/post.pdf)
 
@@ -30,7 +30,7 @@ ENDPOINTS:
 [delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731205/delete.pdf)
 
 
-
-DATABASE STRUCTURE:
+-----------------------------------------------------------------------------------------------------
+# DATABASE STRUCTURE:
 
 [database-structure.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731232/database-structure.pdf)
