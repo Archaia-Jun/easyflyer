@@ -1,6 +1,8 @@
 # easyflyer
 
-UML and logical part:
+UML AND LOGICAL PART:
+
+[activity_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729897/activity_diagram.pdf)
 
 [classes_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729806/classes_diagram.pdf)
 
@@ -8,20 +10,22 @@ UML and logical part:
 
 [use_cases_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7656280/use_cases_diagram.pdf)
 
-[activity_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729765/activity_diagram.pdf)
+
+
+ENDPOINTS:
+
+[post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731203/post.pdf)
+
+[get.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731206/get.pdf)
+
+[getAllCart.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731202/getAllCart.pdf)
+
+[put.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731204/put.pdf)
+
+[delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731205/delete.pdf)
 
 
 
-Endpoints:
+DATABASE STRUCTURE:
 
-[get.pdf](https://github.com/Archaia-Jun/easyflyer/files/7672600/get.pdf)
-
-[getAllCart.pdf](https://github.com/Archaia-Jun/easyflyer/files/7672601/getAllCart.pdf)
-
-[post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7672602/post.pdf)
-
-[put.pdf](https://github.com/Archaia-Jun/easyflyer/files/7672603/put.pdf)
-
-[delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7672604/delete.pdf)
-
-
+[database-structure.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731232/database-structure.pdf)
