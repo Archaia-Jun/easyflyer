@@ -1,11 +1,11 @@
-# easyflyer
+# Easyflyer
 
 DOWNLOAD PROJECT:
 
 https://drive.google.com/file/d/1ewtfBqCl2XSSKxtTlrflKIdP6vHg1Sk1/view?usp=sharing
 
 ---------------------------------------------------------------------------------------------------
-# UML AND LOGICAL PART:
+# UML and Logical part:
 
 [activity_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729897/activity_diagram.pdf)
 
@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1ewtfBqCl2XSSKxtTlrflKIdP6vHg1Sk1/view?usp=shari
 
 
 ------------------------------------------------------------------------------------------------------
-# ENDPOINTS:
+# Endpoints:
 
 [post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731203/post.pdf)
 
@@ -31,6 +31,6 @@ https://drive.google.com/file/d/1ewtfBqCl2XSSKxtTlrflKIdP6vHg1Sk1/view?usp=shari
 
 
 -----------------------------------------------------------------------------------------------------
-# DATABASE STRUCTURE:
+# Database structure:
 
 [database-structure.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731232/database-structure.pdf)
