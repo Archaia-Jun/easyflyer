@@ -1,5 +1,10 @@
 # easyflyer
 
+DOWNLOAD PROJECT:
+
+https://drive.google.com/file/d/1ewtfBqCl2XSSKxtTlrflKIdP6vHg1Sk1/view?usp=sharing
+
+
 UML AND LOGICAL PART:
 
 [activity_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729897/activity_diagram.pdf)
