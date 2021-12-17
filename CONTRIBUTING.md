@@ -12,6 +12,10 @@
 
 - Git
 
+- Visual Paradigm
+
+
+
 IDE : Visual Studio Code
 
 
