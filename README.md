@@ -1,12 +1,6 @@
 # Easyflyer
 
 
-
-DOWNLOAD PROJECT:
-
-https://drive.google.com/file/d/1ewtfBqCl2XSSKxtTlrflKIdP6vHg1Sk1/view?usp=sharing
-
----------------------------------------------------------------------------------------------------
 # UML and Logical part:
 
 [activity_diagram.pdf](https://github.com/Archaia-Jun/easyflyer/files/7729897/activity_diagram.pdf)
@@ -21,18 +15,19 @@ https://drive.google.com/file/d/1ewtfBqCl2XSSKxtTlrflKIdP6vHg1Sk1/view?usp=shari
 ------------------------------------------------------------------------------------------------------
 # Endpoints:
 
-[post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731203/post.pdf)
+[post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764705/post.pdf)
 
-[get.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731206/get.pdf)
+[get.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764757/get.pdf)
 
-[getAllCart.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731202/getAllCart.pdf)
+[getAllCart.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764709/getAllCart.pdf)
 
-[put.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731204/put.pdf)
+[put.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764706/put.pdf)
 
-[delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731205/delete.pdf)
+[delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764707/delete.pdf)
 
 
 -----------------------------------------------------------------------------------------------------
 # Database structure:
 
-[database-structure.pdf](https://github.com/Archaia-Jun/easyflyer/files/7731232/database-structure.pdf)
+[database-structure.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764814/database-structure.pdf)
+
