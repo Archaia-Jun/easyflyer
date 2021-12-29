@@ -32,9 +32,8 @@ IDE : Visual Studio Code
 - Cloud functions (Google Cloud Platform)
 
 
-# Angular Front : 
+# Front (Angular) : 
 
-![angular_front](https://user-images.githubusercontent.com/37714375/147220778-30cdeda9-749e-42bc-b004-98932203edce.JPG)
+![angular_front](https://user-images.githubusercontent.com/37714375/147643834-f0cdb717-61c3-4465-9471-4dbbea7ae6c7.JPG)
 
-![angular_front2](https://user-images.githubusercontent.com/37714375/147220782-5d1e8185-4045-40fb-a761-595921c77996.JPG)
-
+![angular_front2](https://user-images.githubusercontent.com/37714375/147643836-c705a4b5-74eb-4b54-badb-ca4fd4e75ca9.JPG)
