@@ -1,0 +1,55 @@
+<div class="jumbotron">
+  <h1 class="display-4">Easyflyer</h1>
+  <p class="lead">Cart Challenge</p>
+</div>
+<div class="container">
+  <div class="row frontend-row">
+    <div class="col">
+      <form>
+        <div class="form-group example-list">
+          <div class="select-all">
+            <button class="btn btn-btn btn-primary" (click)="selectAll()">select all</button>
+            <button class="btn btn-btn btn-success" (click)="createItem()">create item</button>
+          </div>
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" class="id-column">id</th>
+                <th scope="col">item</th>
+                <th scope="col" class="qty-column">qty</th> 
+                <th scope="col">price</th>
+              </tr>
+            </thead>
+            <tbody *ngFor="let item of exampleItems">
+              <tr>
+                <!--https://angular.io/guide/template-syntax#ngModel-->
+                <td class="id-column"><input placeholder="id" [value]="item.id" (input)="item.id=$event.target.value"></td>
+                <td><input placeholder="item" [value]="item.item" (input)="item.item=$event.target.value"></td>
+                <td class="qty-column"><input placeholder="qty" [value]="item.qty" (input)="item.qty=$event.target.value"></td>
+                <td><input placeholder="price" [value]="item.price" (input)="item.price=$event.target.value"></td>
+              </tr>
+                <tr>
+                  <th scope="col">total</th>
+                  <td><input placeholder="total" [value]="item.total" (input)="item.total=$event.target.value"></td>
+                </tr>
+                <tr>
+                  <th scope="col" class="status-column">status</th> 
+                  <td class="status-column"><input placeholder="status" [value]="item.status" (input)="item.status=$event.target.value"></td>
+                  <th scope="col">date</th> 
+                  <td><input placeholder="date" [value]="item.date" (input)="item.date=$event.target.value"></td>
+                </tr>
+                <tr>
+                <td>Update: {{ lastUpdate | date: 'yyMMMMEEEEdd' }}</td>
+                <td><button type="button" class="btn btn-warning" (click)="updateItem(item)">update</button></td>
+                <td><button type="button" class="btn btn-danger" (click)="deleteItem(item)">delete</button></td>
+                <td><button type="button" class="btn btn-success" (click)="saveItem(item)" *ngIf="item.save !== undefined">save</button></td>
+                </tr>
+              <tr>
+                </tr>
+            </tbody>
+          </table>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
