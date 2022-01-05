@@ -49,14 +49,15 @@ subTotal(item): number {
  if (item.qty > 100) {
   return (item.qty * item.price ) * (0.5 * 100) / 1000;
  } else if (item.qty > 250) {
-  return  res + (item.qty * item.price ) * (0.10 * 100) / 1000;
+  return  (item.qty * item.price ) * (1 * 100) / 1000;
  } else if (item.qty > 500) {
-  return res + (item.qty * item.price ) * (0.15 * 100) / 1000;
+  return (item.qty * item.price ) * (1.5 * 100) / 1000;
  } else if (item.qty > 1000) {
-  return res + (item.qty * item.price ) * (0.20 * 100) / 1000;
- }   
+  return (item.qty * item.price ) * (2 * 100) / 1000;
+ } else {
 
  return item.qty * item.price;
+}
 }
 
 
