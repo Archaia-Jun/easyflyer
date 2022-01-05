@@ -34,6 +34,5 @@ IDE : Visual Studio Code
 
 # Front (Angular) : 
 
-![angular_front](https://user-images.githubusercontent.com/37714375/147643834-f0cdb717-61c3-4465-9471-4dbbea7ae6c7.JPG)
+![angular_front](https://user-images.githubusercontent.com/37714375/148297987-80e70a65-a8a4-4438-bccd-03aeba5731e5.JPG)
 
-![angular_front2](https://user-images.githubusercontent.com/37714375/147649838-bace168f-8bce-471e-af85-1327ace28278.JPG)
