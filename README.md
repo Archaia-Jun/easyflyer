@@ -19,15 +19,14 @@
 
 [get.pdf](https://github.com/Archaia-Jun/easyflyer/files/7820784/get.pdf)
 
-[getAllCart.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764709/getAllCart.pdf)
-
 [put.pdf](https://github.com/Archaia-Jun/easyflyer/files/7820786/put.pdf)
 
-[delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764707/delete.pdf)
+[delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7820818/delete.pdf)
 
 
 -----------------------------------------------------------------------------------------------------
 # Database structure:
 
-[database-structure.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764814/database-structure.pdf)
+[database-structure.pdf](https://github.com/Archaia-Jun/easyflyer/files/7820861/database-structure.pdf)
+
 
