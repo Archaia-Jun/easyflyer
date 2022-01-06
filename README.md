@@ -15,13 +15,13 @@
 ------------------------------------------------------------------------------------------------------
 # Endpoints:
 
-[post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764705/post.pdf)
+[post.pdf](https://github.com/Archaia-Jun/easyflyer/files/7820783/post.pdf)
 
-[get.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764757/get.pdf)
+[get.pdf](https://github.com/Archaia-Jun/easyflyer/files/7820784/get.pdf)
 
 [getAllCart.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764709/getAllCart.pdf)
 
-[put.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764706/put.pdf)
+[put.pdf](https://github.com/Archaia-Jun/easyflyer/files/7820786/put.pdf)
 
 [delete.pdf](https://github.com/Archaia-Jun/easyflyer/files/7764707/delete.pdf)
 
